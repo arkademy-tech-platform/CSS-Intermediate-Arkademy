@@ -1,0 +1,30 @@
+/* .class
+#id */
+
+
+.button {
+  background-color: green;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+
+.button1{
+  background-color: blue;
+}
+
+.button2{
+  background-color: red;
+}
+
+.button3{
+  background-color:yellowgreen;
+}
+
+#footer{
+  background-color: bisque;
+}
+
+.bold{
+  font-weight: 700;
+}

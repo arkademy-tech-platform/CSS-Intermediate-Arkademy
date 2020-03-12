@@ -1,0 +1,35 @@
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+
+.text{
+  background-color: bisque;
+  display: inline-block;
+  width: 150px;
+  margin-top:10px;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+.none{
+  display: none;
+}
+
+/* .boxes{
+  float: left;
+} */
+.box {
+  background-color: cadetblue;
+  margin:2px;
+  padding:4px;
+  display: block;
+  float:left;
+}
+
+.box3{
+  /* clear: left; */
+  /* clear: right; */
+  clear:both;
+}

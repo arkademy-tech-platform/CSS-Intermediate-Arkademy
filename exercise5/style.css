@@ -1,0 +1,59 @@
+.container{
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.form-style {
+  max-width: 500px;
+  padding: 20px;
+  background: #f4f7f8;
+  margin: 10px auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-style fieldset {
+  border: none;
+}
+
+.form-style legend {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+.form-style label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.form-style input,
+.form-style textarea,
+.form-style select {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #e8eeef;
+  border:none;
+  margin:0;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.form-style select {
+  height: 35px;
+}
+
+.form-style .number{
+  background: #1abc9c;
+  color:#fff;
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  text-align: center;
+}
+  
+.form-style input[type="submit"]{
+  background: #1abc9c;
+  color: #fff;
+  padding: 20px;
+  font-size: 19px;
+  border: 1px solid #16a085;
+}
